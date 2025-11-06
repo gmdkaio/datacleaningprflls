@@ -9,3 +9,7 @@
 __pycache__/
 *.pyc
 *.pyo
+
+# DB
+dicts/db_extractor.py
+data/dump_clientes.sql
