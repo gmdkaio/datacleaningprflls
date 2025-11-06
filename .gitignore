@@ -13,3 +13,4 @@ __pycache__/
 # DB
 dicts/db_extractor.py
 data/dump_clientes.sql
+config.py
