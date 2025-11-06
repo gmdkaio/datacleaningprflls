@@ -1,1 +1,15 @@
+# Data 
+/data/
 *.xlsx
+
+# Dicionarios
+/dicts/dictconfigs.py
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# DB
+dicts/db_extractor.py
+data/dump_clientes.sql
